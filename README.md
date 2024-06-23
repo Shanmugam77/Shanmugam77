@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shanmugam</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 
-- 🔭 I’m currently working at Levon Techno Solution as a Full Stack Developer in **Bilkins Project**
+- 🔭 I’m currently working as a Full Stack Developer at Levon Techno Solution
 
 - 🌱 I’m currently learning **Node.js,Express.js,MongoDB, React.js**
 
